@@ -101,6 +101,7 @@ function ClientList({
           ))}
         </div>
       )}
+	<p> Developed by Long Nguyen </p>
     </section>
   );
 }

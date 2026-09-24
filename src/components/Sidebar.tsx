@@ -39,7 +39,6 @@ function Sidebar({
             {item.label}
           </button>
         ))}
-	  <p>Developed by: Long Nguyen</p>
       </nav>
 
       <div className="sidebar-bottom">
